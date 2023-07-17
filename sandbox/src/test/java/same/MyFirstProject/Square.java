@@ -1,4 +1,4 @@
-package pac.MyFirstProgram;
+package same.MyFirstProject;
 
 public class Square {
   public double l;

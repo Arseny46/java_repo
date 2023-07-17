@@ -1,4 +1,4 @@
-package pac.MyFirstProgram;
+package ru.tpqa.pft.sandbox;
 
 public class Rectangle {
   public double a;
